@@ -5,7 +5,6 @@ In this system there are three different users, each with different type of acco
 
 ### 1) Customer
 Can create/login to an account. After logging in customer can book tickets to available movie showings and make food orders for the corresponding showing Customers can also view their tickets and account information.
-![customer_food](media/customer_foodmenu.png?raw=true)
 
 ### 2) Employee
 Can create/login to an account. After logging in employee can view food orders of the theatre location they work at, and change the food order's status. Employees can also view their account information. 
@@ -31,3 +30,13 @@ Employee Login: http://localhost/Project/Employee Login/existingEmployeeAccountF
 
 User guide of how to use website is included in the FINAL REPORT.
 (Final Report also contains EERD & RM Diagrams, and more documentation).
+  
+## Screenshots of Some Main Pages
+### Customer
+  ![customer_showing](media/customer_showings.png?raw=true)
+  ![customer_food](media/customer_foodmenu.png?raw=true)
+### Employee
+  ![employee_orders](media/employee_foodorders.png?raw=true)
+### Manager
+  ![manager_movies](media/manager_movies.png?raw=true)
+  ![manager_movies](media/manager_showings.png?raw=true)
