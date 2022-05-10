@@ -1,5 +1,7 @@
 # MovieBookingSystem
 
+Authors: Alliana Dela Pena, Sanchit Kumar, Thessalonika Magadia
+
 ## General Functionality
 In this system there are three different users, each with different type of accounts:
 
